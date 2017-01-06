@@ -2,7 +2,7 @@
 
 
 # About
-This is a fork from the Awesome-iOS repo. However, the central theme is on the most delightful, state-of-the-art UI Components.
+We are all about the design, UI and final touches to your app. We just gather and curate the most delightful, state-of-the-art UI Components and then present them to you :)
 
 Never felt like building an app and when you've all the hard working parts glued together and the functionality is right...and you come to the easy part of design...found yourself going through many repos just to find ugly UI components? 
 
@@ -13,6 +13,8 @@ If you're noddling in agreement - this is your site. We pick the nicest UICompon
 Contributions are more than welcome. However, to mantain such high standards of design please read the before contributing: [guide](https://github.com/isaac12x/awesome-ios-ui/blob/master/.github/CONTRIBUTING.md).
 
 Projects in Swift will be marked with :gift:. Projects in Objctive-C will be marked with :jack_o_lantern:
+
+*Forked from the Awesome-iOS repo.
 
 # How to Use
 - Go through our *Content Menu* and look for what component you want.
