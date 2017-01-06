@@ -13,6 +13,8 @@ If you're noddling in agreement - this is your site. We pick the nicest UICompon
 Contributions are more than welcome. However, to mantain such high standards of design please read the before contributing: [guide](https://github.com/isaac12x/awesome-ios-ui/blob/master/.github/CONTRIBUTING.md).
 
 Projects in Swift will be marked with :gift:. Projects in Objctive-C will be marked with :jack_o_lantern:
+If the project is in both they will be marked with :muscle:
+Hot projects will be marked with 1:star: to 5 :star::star::star::star::star2:
 
 *Forked from the Awesome-iOS repo.
 
@@ -829,6 +831,13 @@ Projects in Swift will be marked with :gift:. Projects in Objctive-C will be mar
 * [SVWebViewController](https://github.com/TransitApp/SVWebViewController) - A drop-in inline browser for your iOS app.
 * [PTPopupWebView](https://github.com/pjocprac/PTPopupWebView) - PTPopupWebView is a simple and useful WebView for iOS, which can be popup and has many of the customized item. :large_orange_diamond:
 
+
+# Resources
+
+# Tools
+
+# Miscellaneous
+* [Emoji Cheat Sheet] (http://www.webpagefx.com/tools/emoji-cheat-sheet/) - 
 
 # Contributing and License
  * [See the guide](https://github.com/isaac12x/awesome-ios-ui/blob/master/.github/CONTRIBUTING.md)
