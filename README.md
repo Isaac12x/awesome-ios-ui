@@ -111,7 +111,6 @@ Hot projects will be marked with 1:star: to 5 :star::star::star::star::star2:
 * [AZExpandableIconListView](https://github.com/Azuritul/AZExpandableIconListView) - An expandable/collapsible view component written in Swift. :gift:
 * [greedo-layout-for-ios](https://github.com/500px/greedo-layout-for-ios) - Full aspect ratio grid layout for iOS
 * [FlourishUI](https://github.com/thinkclay/FlourishUI) - A highly configurable and out-of-the-box-pretty UI library :gift:
-* [GranadaLayout](https://github.com/gskbyte/GranadaLayout) - Alternative layout system for iOS, inspired on the Android layout system, that includes linear and relative layouts, as well as an extensible JSON-based layout inflater.
 * [Navigation Stack](https://github.com/Ramotion/navigation-stack) - Navigation Stack is a stack-modeled navigation controller. :gift:
 * [UIView-draggable](https://github.com/andreamazz/UIView-draggable) - UIView category that adds dragging capabilities :gift:
 * [PeekPop](https://github.com/marmelroy/PeekPop) - Backwards-compatible Peek and Pop.
@@ -128,11 +127,9 @@ Hot projects will be marked with 1:star: to 5 :star::star::star::star::star2:
 * [VisualEffectView](https://github.com/efremidze/VisualEffectView) - UIVisualEffectView subclass with tint color. :gift:
 * [NumPad](https://github.com/efremidze/NumPad) - Number Pad (inspired by Square's design). :gift:
 * [expanding-collection](https://github.com/Ramotion/expanding-collection) - ExpandingCollection is a card peek/pop controller :gift:
-* [Cacao](https://github.com/PureSwift/Cacao) - Pure Swift Cross-platform UIKit (Cocoa Touch) implementation (Supports Linux) :gift:
 * [LFTimePicker](https://github.com/awesome-labs/LFTimePicker) - Custom Time Picker ViewController with Selection of start and end times in Swift :gift:
 * [StateView](https://github.com/sahandnayebaziz/StateView) - Views that automatically update themselves. :gift:
 * [JDFlipNumberView](https://github.com/calimarkus/JDFlipNumberView) - Representing analog flip numbers like airport/trainstation displays.
-* [JQSwiftIcon](https://github.com/josejuanqm/JQSwiftIcon) - Icon Fonts on iOS using string interpolation written in Swift. :gift:
 * [FlickToDismiss](https://github.com/jakelawson1/FlickToDismiss) - A basic UIViewController class that presents a UIView which can be dismissed by flicking it off the screen. :gift:
 * [ISTimeline](https://github.com/instant-solutions/ISTimeline) - Simple timeline view written in Swift 2.2 :gift:
 * [JFCardSelectionViewController](https://github.com/atljeremy/JFCardSelectionViewController) - A fancy collection style view controller :gift:
@@ -140,8 +137,6 @@ Hot projects will be marked with 1:star: to 5 :star::star::star::star::star2:
 * [BackgroundVideoiOS](https://github.com/Guzlan/BackgroundVideoiOS) - A swift and objective-C object that lets you add a background video to iOS views :gift:
 * [NightNight](https://github.com/Draveness/NightNight) - Elegant way to integrate night mode to swift projects :gift:
 * [SwiftTheme](https://github.com/jiecao-fm/SwiftTheme) - Powerful theme/skin manager for iOS 7+ :gift:
-* [PinpointKit](https://github.com/Lickability/PinpointKit) - Let your testers and users send feedback with annotated screenshots and logs using a simple gesture. :gift:
-* [FDStackView](https://github.com/forkingdog/FDStackView) - Use UIStackView directly in iOS6+
 * [Popover](https://github.com/corin8823/Popover) - Popover is a balloon library like Facebook app :gift:
 * [YangMingShan](https://github.com/yahoo/YangMingShan) - YangMingShan is a collection of iOS UI components that we created while building Yahoo apps.
 * [TOActionSheet](https://github.com/TimOliver/TOActionSheet) - A custom-designed reimplementation of the UIActionSheet control for iOS
