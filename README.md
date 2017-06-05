@@ -38,6 +38,7 @@ Hot projects will be marked with 1:star: to 5 :star::star::star::star::star2:
     - [Image](#image)
     - [Keyboard](#keyboard)
     - [Label](#label)
+    - [Layout](#layout)
     - [Menu](#menu)
     - [Modal Transition](#modal-transition)
     - [Navigation Bar](#navigation-bar)
@@ -474,6 +475,9 @@ Hot projects will be marked with 1:star: to 5 :star::star::star::star::star2:
 * [MTLLinkLabel](https://github.com/recruit-mtl/MTLLinkLabel) - MTLLinkLabel is linkable UILabel. Written in Swift. :large_orange_diamond:
 * [UICountingLabel](https://github.com/dataxpress/UICountingLabel/) - Adds animated counting support to UILabel.
 
+### Layout
+* [BouncyLayout](https://github.com/roberthein/BouncyLayout) - Incredibly powerful layout engine for collection views. :large_orange_diamond:
+
 #### Menu
 * [ENSwiftSideMenu](https://github.com/evnaz/ENSwiftSideMenu) - A simple side menu for iOS 7/8 written in Swift. :large_orange_diamond:
 * [RESideMenu](https://github.com/romaonthego/RESideMenu) - iOS 7/8 style side menu with parallax effect inspired by Dribbble shots.
@@ -829,6 +833,7 @@ Hot projects will be marked with 1:star: to 5 :star::star::star::star::star2:
 
 
 # Tools
+* [Cocoa Controls] (https://www.cocoacontrols.com) - 5522 Open source UI components at the moment.
 
 # Miscellaneous
 * [Emoji Cheat Sheet] (http://www.webpagefx.com/tools/emoji-cheat-sheet/) - 
