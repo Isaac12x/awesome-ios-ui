@@ -166,6 +166,7 @@ Hot projects will be marked with 1:star: to 5 :star::star::star::star::star2:
 * [Reactions](https://github.com/yannickl/Reactions) - Fully customizable Facebook reactions control :gift:
 * [Newly](https://github.com/dhirajjadhao/Newly) - Newly is a drop in solution to add Twitter/Facebook/Linkedin-style new updates/tweets/posts available button :gift:
 * [CardStackController](https://github.com/jobandtalent/CardStackController) - iOS custom controller used in Jobandtalent app to present new view controllers as cards :gift:
+* [BulletinBoard[(https://github.com/alexaubry/BulletinBoard) - iOS custom Bulletin Board. Similar to the App Store payment or download confirmation activity view. :gift:
 
 #### Activity Indicator
 
@@ -833,10 +834,10 @@ Hot projects will be marked with 1:star: to 5 :star::star::star::star::star2:
 
 
 # Tools
-* [Cocoa Controls] (https://www.cocoacontrols.com) - 5522 Open source UI components at the moment.
+* [Cocoa Controls](https://www.cocoacontrols.com) - 5522 Open source UI components at the moment.
 
 # Miscellaneous
-* [Emoji Cheat Sheet] (http://www.webpagefx.com/tools/emoji-cheat-sheet/) - 
+* [Emoji Cheat Sheet](http://www.webpagefx.com/tools/emoji-cheat-sheet/) - Emoji cheat sheet :)
 
 # Contributing and License
  * [See the guide](https://github.com/isaac12x/awesome-ios-ui/blob/master/.github/CONTRIBUTING.md)
